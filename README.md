@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Umar!
+👋 Hi, I'm Umar, a passionate web developer with a strong focus on creating innovative solutions. I specialize in HTML, CSS, JavaScript, and React, and have experience in designing responsive and user-friendly applications using Tailwind CSS.
 
-I'm a passionate developer with a love for creative work. My interests extend beyond coding, as I enjoy playing football and engaging in other outdoor games. I’ve even played football professionally!
+Beyond coding, I enjoy engaging in outdoor activities that inspire my creativity and teamwork skills. I’m always eager to explore new technologies and stay updated on industry trends.
 
 ---
 
