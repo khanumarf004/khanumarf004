@@ -38,7 +38,7 @@ A simple clone of Amazon's interface built using HTML and CSS.
 ---
 
 ## 🎉 Fun Facts
-- I once played in a local football tournament and scored the winning goal!
+- I played in a college football tournament, scored the winning goal, and was the captain of my team!
 - I enjoy experimenting with new coding techniques and tools in my spare time.
 
 ---
