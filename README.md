@@ -17,11 +17,11 @@ Beyond coding, I enjoy engaging in outdoor activities that inspire my creativity
 ---
 
 ## 🚀 Projects
-### [BMI Calculator](https://github.com/yourusername/bmi-calculator) 
-A web application that calculates Body Mass Index using HTML, CSS, JavaScript, and React.
-
-### [Amazon Clone](https://github.com/yourusername/amazon-clone) 
+### [Amazon Clone](https://github.com/khanumarf004/Amazon-Clone) 
 A simple clone of Amazon's interface built using HTML and CSS.
+
+### [BMI Calculator](https://github.com/khanumarf004/BMI-Calculator) 
+A web application that calculates Body Mass Index using HTML, CSS, JavaScript, and React.
 
 ---
 
